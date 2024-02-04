@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vickeykrgupta
+- 👋 Hi, I’m @Vickey kumar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working on Angular
 - 💞️ I’m looking to collaborate on Wbsite
-- 📫 How to reach me On LinkedIn
+- 📫 How to reach me On LinkedIn 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
